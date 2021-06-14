@@ -1,2 +1,2 @@
-web:gunicorn nevsky.wsgi --log-file -
+web: gunicorn nevsky.wsgi --log-file -
 
